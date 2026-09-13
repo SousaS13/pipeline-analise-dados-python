@@ -1,4 +1,4 @@
-Pipeline de Extração, Tratamento e Análise de Dados (Python & SQL)
+# Pipeline de Extração, Tratamento e Análise de Dados (Python & SQL)
 
 Este projeto apresenta o desenvolvimento de um pipeline automatizado para manipulação, limpeza e análise exploratória de grandes volumes de dados institucionais, simulando cenários reais de Governança de Dados e Business Intelligence (BI) no setor público.
 
